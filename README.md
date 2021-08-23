@@ -11,4 +11,4 @@ Related Stack Overflow topics:
 
 Expected result:
 
-![Images-with-rounded-corners-and-shadow](https://i.stack.imgur.com/3eqVq.png)
+![Images-with-rounded-corners-and-shadow](https://i.ibb.co/m5YQYV1/Whats-App-Image-2021-08-23-at-9-37-21-AM-8.jpg)
